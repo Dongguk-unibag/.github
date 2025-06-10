@@ -12,3 +12,4 @@
 | ![image](https://github.com/user-attachments/assets/3364d73f-58b9-41c7-abdf-9225cc4917be) | ![image](https://github.com/user-attachments/assets/02083d02-4249-45d4-86b6-8eb606188afc) | ![image](https://github.com/user-attachments/assets/0be7c0ba-cc1f-42a5-adcd-49a1781c4563) | ![image](https://github.com/user-attachments/assets/ba0a83e3-6649-4f37-b0d0-5ea401592c97) | ![image](https://github.com/user-attachments/assets/e59d1f9a-da1c-41b5-bf7f-ba1be7fbf357) |
 | 프로젝트 리더 | 프론트엔드 | 백엔드 | 프론트엔드 | 백엔드 |
 
+작성중
