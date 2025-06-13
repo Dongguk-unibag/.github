@@ -99,9 +99,13 @@
 
 ### [과제 기능]
 
-| <img src="https://github.com/user-attachments/assets/fc39d04d-dd54-4021-b883-362259c2a56d" width="160"/> | <img src="https://github.com/user-attachments/assets/860d9fea-e2cb-4683-9f0b-a777c9605035" width="160"/> | <img src="https://github.com/user-attachments/assets/a2641e47-45b4-4c7c-8e98-4f615e4d5e10" width="160"/> | <img src="https://github.com/user-attachments/assets/2580ea1a-bbeb-451d-a6a8-206edca97e08" width="160"/> | <img src="https://github.com/user-attachments/assets/2278e92d-3298-4f89-ad36-eafc1daec43b" width="160"/> |
-| --- | --- | --- | --- | --- |
-| 과제 등록 | 과제 삭제 | 과제 완료 체크 | 과제 수정 | 과제 일괄 삭제 |
+| <img src="https://github.com/user-attachments/assets/fc39d04d-dd54-4021-b883-362259c2a56d" width="160"/> | <img src="https://github.com/user-attachments/assets/860d9fea-e2cb-4683-9f0b-a777c9605035" width="160"/> | <img src="https://github.com/user-attachments/assets/a2641e47-45b4-4c7c-8e98-4f615e4d5e10" width="160"/> | <img src="https://github.com/user-attachments/assets/2580ea1a-bbeb-451d-a6a8-206edca97e08" width="160"/> |
+| --- | --- | --- | --- |
+| 과제 등록 | 과제 삭제 | 과제 완료 체크 | 과제 수정 |
+
+| <img src="https://github.com/user-attachments/assets/2278e92d-3298-4f89-ad36-eafc1daec43b" width="160"/> |
+| --- |
+| 과제 일괄 삭제 |
 
 **과제 등록**
 
