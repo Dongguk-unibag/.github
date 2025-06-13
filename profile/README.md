@@ -147,21 +147,16 @@
 
 ## ⚒️ 기술 스택
 - **Framework**: `Flutter`, `Spring Boot`
-
 - **Language**: `Python`
-
 - **Database**: `MySQL`, `Redis`
-
 - **Container&Deploy**: `Docker`, `Github Actions`
-
 - **Messaging**: `FCM (Firebase Cloud Messaging)`
-
 - **Monitoring**: `Loki`, `Prometheus`, `Grafana`
 
 </br>
 
 ## 🏛️ 서비스 아키텍쳐 
-| <img src="https://github.com/user-attachments/assets/05ea7caa-3a6a-4524-af5f-80d783db369a" width="500"/> | <img src="https://github.com/user-attachments/assets/e714fc04-a663-4521-b41f-c44108ad2792" width="500"/> |
+| <img src="https://github.com/user-attachments/assets/05ea7caa-3a6a-4524-af5f-80d783db369a" width="600"/> | <img src="https://github.com/user-attachments/assets/e714fc04-a663-4521-b41f-c44108ad2792" width="600"/> |
 | --- | --- |
 | 아키텍쳐 | ERD |
 
