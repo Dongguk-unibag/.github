@@ -175,7 +175,7 @@
 | ✨김광래 | 김동규 | 김희진 | 임채강 | 최민수 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c78c754f-02d2-4607-9df9-ac15a9912e0b" width="200"/> | <img src="https://github.com/user-attachments/assets/96574fb1-7b42-45dd-8ad7-21ed4464f119" width="200"/> | <img src="https://github.com/user-attachments/assets/9489e917-c744-4f26-80c8-e077b76e0e15" width="200"/> | <img src="https://github.com/user-attachments/assets/80b1a053-0970-475e-92b8-9a636f51febb" width="200"/> | <img src="https://github.com/user-attachments/assets/a4d37556-d21d-40b6-95fc-f17df8d2e05a" width="200"/> |
-| ✨[@kkr010128](https://github.com/kkr010128) | [@KDongGyu1](https://github.com/KDongGyu1) | [@gmlwls768](https://github.com/gmlwls768) | [@chaegang01](https://github.com/chaegang01) | [@minnnisu](https://github.com/minnnisu) |
+| [@kkr010128](https://github.com/kkr010128) | [@KDongGyu1](https://github.com/KDongGyu1) | [@gmlwls768](https://github.com/gmlwls768) | [@chaegang01](https://github.com/chaegang01) | [@minnnisu](https://github.com/minnnisu) |
 | 프로젝트 리더</br>프론트엔드 개발</br>문서 작업 | 프론트엔드 개발 | 백엔드 개발 | 프론트엔드 개발 | 프론트엔드 개발</br>백엔드 개발 |
 
 </br>
