@@ -16,9 +16,13 @@
 ## ✨ 서비스 기능
 
 ### [회원기능]
-| <img src="https://github.com/user-attachments/assets/b0abcdcb-99ee-4a63-8bdc-661a8580c6c1" width="160"/> | <img src="https://github.com/user-attachments/assets/59f52c8a-bcb6-47e9-8802-d569d56087cf" width="160"/> | <img src="https://github.com/user-attachments/assets/988a6c8a-a3d4-4360-b802-98a78253fb49" width="160"/> | <img src="https://github.com/user-attachments/assets/413861db-e73d-4214-88b3-e17e0a8190a5" width="160"/> | <img src="https://github.com/user-attachments/assets/c17cff5b-b314-4ea5-a639-504bb252302b" width="160"/> |
-| --- | --- | --- | --- | --- |
-| 초기 화면 | 로그인 | EMS 로그인 | 로그아웃 | 회원 탈퇴 |
+| <img src="https://github.com/user-attachments/assets/b0abcdcb-99ee-4a63-8bdc-661a8580c6c1" width="160"/> | <img src="https://github.com/user-attachments/assets/59f52c8a-bcb6-47e9-8802-d569d56087cf" width="160"/> | <img src="https://github.com/user-attachments/assets/988a6c8a-a3d4-4360-b802-98a78253fb49" width="160"/> | <img src="https://github.com/user-attachments/assets/413861db-e73d-4214-88b3-e17e0a8190a5" width="160"/> |
+| --- | --- | --- | --- |
+| 초기 화면 | 로그인 | EMS 로그인 | 로그아웃 |
+
+| <img src="https://github.com/user-attachments/assets/c17cff5b-b314-4ea5-a639-504bb252302b" width="160"/> |
+| --- |
+| 회원 탈퇴 |
 
 **초기 화면**
 
@@ -41,7 +45,6 @@
 
 - 회원 탈퇴를 하게되면 해당 유저의 모든 정보가 사용자의 디바이스 및 서버에서 삭제되고 로그인 페이지로 이동합니다.
 
-</br>
 </br>
 
 ### [시간표 기능]
@@ -70,7 +73,6 @@
 - 등록된 시간표를 목록에서 삭제합니다.
 
 </br>
-</br>
 
 ### [친구 기능]
 
@@ -95,7 +97,6 @@
 - 빠르게 확인할 친구 시간표를 친구목록에서 선택할 수 있습니다.
 - 보여지는 친구 시간표는 친구가 설정한 대표 시간표입니다.
 
-</br>
 </br>
 
 ### [과제 기능]
@@ -127,7 +128,6 @@
 
 - 완료된 과제들을 목록에서 전부 삭제합니다.
 
-</br>
 </br>
 
 ### 신분증 기능
