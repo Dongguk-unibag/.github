@@ -162,11 +162,20 @@
 
 </br>
 
+## 👍 기대효과
+- 학생들의 학교 기능 편의 증대
+- 학습 관련 부가 서비스를 통해 애플리케이션의 사용 빈도 증가
+- 즉각적인 피드백(고객센터 및 설문)을 통해 지속 개선 가능
+- 모바일 친화적 UI로 인해 기존의 nDrims, eClass, smart동국, 열람실 좌석 배정 시스템 대신 학점가방 사용
+- 친구 추가 기능으로 인한 학생들의 커뮤니케이션 증가
+
+</br>
+
 ## 🧑🏻‍💻 팀원 구성
 | ✨김광래 | 김동규 | 김희진 | 임채강 | 최민수 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c78c754f-02d2-4607-9df9-ac15a9912e0b" width="200"/> | <img src="https://github.com/user-attachments/assets/96574fb1-7b42-45dd-8ad7-21ed4464f119" width="200"/> | <img src="https://github.com/user-attachments/assets/9489e917-c744-4f26-80c8-e077b76e0e15" width="200"/> | <img src="https://github.com/user-attachments/assets/80b1a053-0970-475e-92b8-9a636f51febb" width="200"/> | <img src="https://github.com/user-attachments/assets/a4d37556-d21d-40b6-95fc-f17df8d2e05a" width="200"/> |
 | ✨[@kkr010128](https://github.com/kkr010128) | [@KDongGyu1](https://github.com/KDongGyu1) | [@gmlwls768](https://github.com/gmlwls768) | [@chaegang01](https://github.com/chaegang01) | [@최민수](https://github.com/minnnisu) |
-| 프로젝트 리더<br>프론트엔드 개발 | 프론트엔드 개발 | 백엔드 개발 | 프론트엔드 개발 | 프론트엔드 개발<br>백엔드 개발 |
+| 프로젝트 리더</br>프론트엔드 개발</br>문서 작업 | 프론트엔드 개발 | 백엔드 개발 | 프론트엔드 개발 | 프론트엔드 개발</br>백엔드 개발 |
 
 </br>
